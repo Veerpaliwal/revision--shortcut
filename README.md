@@ -1,0 +1,2 @@
+# revision--shortcut
+revision -shortcut
